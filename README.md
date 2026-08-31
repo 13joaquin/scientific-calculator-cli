@@ -142,10 +142,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Expression history and variables
 - [ ] Multiple precision arithmetic
 
-## 👤 Author
-
-**Joaquín** - [GitHub Profile](https://github.com/13joaquin)
-
 ---
 
 **Happy Learning!** 🚀 Feel free to explore, modify, and learn from this codebase.
